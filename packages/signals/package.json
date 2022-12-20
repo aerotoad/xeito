@@ -1,0 +1,16 @@
+{
+  "name": "@xeito/signals",
+  "version": "0.1.5",
+  "description": "Reactivity Signals for Xeito | Framework for building web applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "Samuel Bazaga",
+  "license": "MIT",
+  "dependencies": {}
+}
